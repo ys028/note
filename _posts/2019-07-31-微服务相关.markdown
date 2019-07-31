@@ -14,26 +14,16 @@ categories: 微服务 SpringCloud
 ---
 
 
-# 1
-## 1.1
-### 1.1.1
-#### 1.1.1.1
+# 1.注册中心
+## 1.1 什么是微服务
+## 1.2 注册中心概述
+## 1.3 Eureka
+### 1.3.1 Eureka概述
+### 1.3.2 Eureka常见问题
+### 1.3.3 Eureka的配置
+### 1.3.4 Eureka缓存机制
+### 1.3.5 Eurek与Zookeeper区别
 
-![图1.1](https://ys028.github.io/note/images/viewfile.jpg "鼠标一上来了")
+# 2.配置中心
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-```javascript
-const Razorpay = require('razorpay');
-
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
-
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
-```
+![图1.1](https://ys028.github.io/note/images/ "鼠标一上来了")
